@@ -51,7 +51,7 @@ export default function DrVisitHomeCare() {
               <span>1800-123-4567</span>
             </Button>
             <Button size="sm" className="bg-green-600 hover:bg-green-700 rounded-full px-6">
-              Book Now rami reddy
+              Book Now rambo
             </Button>
           </div>
         </div>
